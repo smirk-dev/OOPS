@@ -1,0 +1,7 @@
+Welcome to File Reader Program!
+This is a sample text file created for Lab 8.
+The program reads this file character by character.
+In Java, FileReader is used to read character streams.
+It reads data one character at a time from the file.
+This method is useful for processing text files.
+The read() method returns -1 when end of file is reached. Lab 8 Exercise - Reading Files using FileReader
