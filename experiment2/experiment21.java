@@ -1,6 +1,6 @@
 //input two numbers as command line arguments and perform basic arithmetic operations
 package experiment2;
-public class experiment21 {
+public class Experiment21 {
     public static void main(String[] args) {
         System.out.println("Suryansh Mishra 590012069");
         int num1 = Integer.parseInt(args[0]);

@@ -1,7 +1,7 @@
 //input principal, rate, time and print compound interest
 package experiment2;
 import java.util.Scanner;
-public class experiment23 {
+public class Experiment23 {
     public static void main(String[] args) {
         System.out.println("Suryansh Mishra 590012069");
         Scanner sc = new Scanner(System.in);
